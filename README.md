@@ -1,17 +1,8 @@
-# flutter_application_1
+# 📱 Monitoramento Escolar (monitoramento-escolaR)
 
-A new Flutter project.
+Aplicativo mobile desenvolvido em **Flutter** com arquitetura modularizada, focado no acompanhamento acadêmico e na gestão escolar. O projeto foi estruturado seguindo padrões modernos de design system (inspirados em wireframes de alta fidelidade) e boas práticas de engenharia de software.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* **Flutter SDK** 
+* dart
+*Visual Studio Code 
+* **Git & GitHub** 
